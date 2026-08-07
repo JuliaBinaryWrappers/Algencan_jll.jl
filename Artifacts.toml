@@ -1,0 +1,178 @@
+[[Algencan]]
+arch = "aarch64"
+git-tree-sha1 = "ac3e098097ec53183fd1145db8386ea8a89ac7d2"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Algencan.download]]
+    sha256 = "1fcded6061005daa72c81b44472b11c15199c07b44b49cc63ae61b63a0d11fc6"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "aarch64"
+git-tree-sha1 = "43dc0f75c11a2621d5a27ed59a09f39f4afde27d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Algencan.download]]
+    sha256 = "fd80030e59071cafcdf0d0319a3ec91014bbff33ce05cb5bac3229cdbe7d63c8"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "aarch64"
+git-tree-sha1 = "f3b068ebae70673ad136cceeae085dba9e15a004"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Algencan.download]]
+    sha256 = "1d46b40b4241ce594fff10231b5b774ba001fac5d1a47b0a0e0a447302af83ea"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.aarch64-linux-musl-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "aarch64"
+git-tree-sha1 = "2e6b478e402b529379a5c5f2bd1fd3eda6f40564"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[Algencan.download]]
+    sha256 = "1e54f640a57161484018e2ae6e3a52a12b36aadc4424a0dded8bc78028a75979"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5d8f0526e02a8bb5344a3947d6e0b2243d4f6b94"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Algencan.download]]
+    sha256 = "c36b54c7eb3b98773fb3f3ee75edc3571be82fc80189a7f0e1b619e4ebeb2361"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "75c11ea6c7555fc6e8cc02a7964a23a6e4d8013f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Algencan.download]]
+    sha256 = "78cb18adb64e5e2625f9697261e29a8e4861039983f8f8a2d89eca6a2456a4b8"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e02f28847d8c825728150e3702837ad9048482d1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Algencan.download]]
+    sha256 = "43ef4af9419b81edc7158b86c51023bd845570b887bebfb9c88bc809b216bd67"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "71bd23721c392940d90334578ce13a1602b07e21"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Algencan.download]]
+    sha256 = "7f2bb3e84f0f201c2ed9a4f10e081c3d175fc471beee1b4cf601ca3d7aee3e8a"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "i686"
+git-tree-sha1 = "0118fb77518055e47df65d0f6d614a81eb62ca13"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Algencan.download]]
+    sha256 = "7c0814676f430862425938e1f277388d8b112b6f0228799eb2ba35e66b3676e4"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.i686-linux-gnu-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "i686"
+git-tree-sha1 = "d373fb839ab44b2d7031a3eac980e9e19355b376"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Algencan.download]]
+    sha256 = "fd68a215a94a7d9c8633d8287005660a757c644c296c23858738e27906e4cdaf"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.i686-linux-musl-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "i686"
+git-tree-sha1 = "843fe35bf668bbfb80df13e899b7b7758e5f4e1c"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[Algencan.download]]
+    sha256 = "cb88adba81eccd31959d5f2996d6d0f0fe92acccfdfdd39af6c2cb73e22150ad"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.i686-w64-mingw32-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "powerpc64le"
+git-tree-sha1 = "55fb6e85d43c4b0d9b7e5a07daf7e9819f4ef1e7"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Algencan.download]]
+    sha256 = "397041a60a1a0c125d778a6d793b784328ed9bb709c2027523006ef52dfd54e0"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "riscv64"
+git-tree-sha1 = "dbde648f31fd8d83d57389d69bdde515b812d76f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Algencan.download]]
+    sha256 = "5861b52d993d5921b6c881bc24c458f487ba053bca9c94ed22f7a761140a675d"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.riscv64-linux-gnu-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "x86_64"
+git-tree-sha1 = "46ecc9d5afc907157f9a3ed3fb3dc89471ff667b"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Algencan.download]]
+    sha256 = "665b3c65815e6d596d23b3c38edae4ed375a57008f76fe0ab4dce675b26d94da"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "x86_64"
+git-tree-sha1 = "6a5a0a4146d866e7b0abd15a4a15738f9fb8bb09"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Algencan.download]]
+    sha256 = "69d25e264bf97f9bd7324d5d0b762547a83c0934a32b33ac8c2c5e90c7f8ec53"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "x86_64"
+git-tree-sha1 = "675b9c18ca40034f06bba87c1dc36cd9eecc5ca6"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Algencan.download]]
+    sha256 = "eb01c7a00ab41ece66a6778d1dcacb57253934cf258614c798d5b67745802d76"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.x86_64-linux-musl-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "x86_64"
+git-tree-sha1 = "231246674dcb633c2bd09ddc8d18e095918730e6"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[Algencan.download]]
+    sha256 = "e11ded4abfba21643775361ebe23651d445f197bcefa716b64e1c7ea2007b6f1"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[Algencan]]
+arch = "x86_64"
+git-tree-sha1 = "dab8cfe7fd138caca58f537dee7d2f184e4d219e"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[Algencan.download]]
+    sha256 = "c1b9f7042ba0ecee306fb5a39c9229e0cacb1d0a13230e2d5f11235f13ce554a"
+    url = "https://github.com/JuliaBinaryWrappers/Algencan_jll.jl/releases/download/Algencan-v3.1.1+0/Algencan.v3.1.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
